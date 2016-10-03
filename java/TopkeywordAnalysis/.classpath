@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/hadoop-common-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/mapreduce/hadoop-mapreduce-client-app-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/mapreduce/hadoop-mapreduce-client-core-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-2.7.2-tests.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/mapreduce/hadoop-mapreduce-client-common-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/shineware-ds-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/shineware-common-2.0.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/komoran-2.4-e.jar"/>
+	<classpathentry kind="lib" path="/home/jongeun/hadoop-2.7.2/share/hadoop/common/lib/DBcontroll.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
